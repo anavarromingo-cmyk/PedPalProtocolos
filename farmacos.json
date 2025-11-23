@@ -139,7 +139,7 @@
     {
       "Farmaco": "Buprenorfina",
       "UsosPrincipales": [
-        "Dolor moderado a severo",
+        "Dolor moderado a grave",
         [cite_start]"Opioide alternativo en Insuficiencia Renal Terminal (estadio 4 o 5)" [cite: 738, 739]
       ],
       [cite_start]"DosisGeneral": "Parche Transdérmico (parches de 7 días): Conversión usando Equivalente Oral de Morfina (OME) (ej. 12mg/24h Morfina Oral ≈ 5µg/h Buprenorfina)[cite: 755, 756]. Sublingual (Pacientes Opioide Naive): 5microgramos/kg/dosis, máx. [cite_start]100microgramos/dosis, cada 8 horas[cite: 766].",
@@ -312,7 +312,7 @@
     {
       "Farmaco": "Diamorfina",
       "UsosPrincipales": [
-        "Dolor moderado a severo",
+        "Dolor moderado a grave",
         "Dolor irruptivo (cuando la vía oral no está disponible o se requiere acción rápida)",
         "Disnea",
         [cite_start]"Opioide alternativo cuando se requieren dosis grandes en pequeño volumen" [cite: 1479-1481]
@@ -418,7 +418,7 @@
     {
       "Farmaco": "Fentanilo",
       "UsosPrincipales": [
-        "Dolor moderado a severo",
+        "Dolor moderado a grave",
         [cite_start]"Transdérmico NO debe usarse en pacientes opioides naive" [cite: 1902, 1903]
       ],
       [cite_start]"DosisGeneral": "Parche Transdérmico (parche de 72h): Conversión desde Morfina Oral (Ratio 100:1) (ej. 30mg/24h Morfina Oral ≈ 12µg/h Fentanilo)[cite: 1918, 1937]. [cite_start]Infusión (CSCI/CIVI): Conversión desde Morfina Oral (Ratio 100:1)[cite: 1948]. [cite_start]Dolor Irruptivo (Bucal/IN): 1/10 a 1/6 de la dosis total de CSCI/CIVI (máx. c/h)[cite: 1954, 1955].",
@@ -522,7 +522,7 @@
     {
       "Farmaco": "Hidromorfona",
       "UsosPrincipales": [
-        [cite_start]"Analgésico opioide alternativo para dolor severo (especialmente intolerancia a otros opioides fuertes)" [cite: 2335]
+        [cite_start]"Analgésico opioide alternativo para dolor grave (especialmente intolerancia a otros opioides fuertes)" [cite: 2335]
       ],
       [cite_start]"DosisGeneral": "Oral (Liberación Inmediata): Conversión desde Morfina Oral (Ratio 5:1)[cite: 2335]. [cite_start]CSCI/CIVI: Conversión desde Morfina Oral (Ratio 10:1); desde Morfina CSCI/CIVI (Ratio 5:1)[cite: 2343].",
       "RutasComunes": [
@@ -596,7 +596,7 @@
       "UsosPrincipales": [
         "Dolor neuropático e hiperalgesia",
         "Dolor refractario (opioides, no opioides, adyuvantes)",
-        "Dolor visceral/isquémico severo",
+        "Dolor visceral/isquémico grave",
         [cite_start]"Reducción de la 'puesta en marcha' del receptor NMDA y tolerancia a opioides" [cite: 2445]
       ],
       [cite_start]"DosisGeneral": "Oral/Bucal (Neonato-11 años): Inicial 100microgramos/kg, aumentar hasta 400microgramos/kg, cada 6-8 horas[cite: 2446, 2447]. [cite_start]Infusión CSCI/CIVI (Niños ≥1 mes): Inicial 500microgramos/kg/24horas a 1mg/kg/24horas (máx. usual 12mg/kg/24h)[cite: 2450].",
@@ -611,7 +611,7 @@
     {
       "Farmaco": "Ketorolaco",
       "UsosPrincipales": [
-        "Manejo a corto plazo del dolor postoperatorio agudo moderado a severo",
+        "Manejo a corto plazo del dolor postoperatorio agudo moderado a grave",
         [cite_start]"Dolor crónico (experiencia limitada)" [cite: 2483]
       ],
       [cite_start]"DosisGeneral": "IV/SC Bolus (Niños 1-15 años): 500microgramos/kg/dosis, máx. 15mg, c/6 horas (máx. 60mg/día)[cite: 2484]. [cite_start]CSCI (Niños 1-15 años): 2mg/kg/24horas (máx. 60mg/día)[cite: 2484].",
@@ -742,7 +742,7 @@
     {
       "Farmaco": "Metadona",
       "UsosPrincipales": [
-        [cite_start]"Dolor moderado a severo, particularmente dolor neuropático o mal respondedor a otros opioides" [cite: 2680]
+        [cite_start]"Dolor moderado a grave, particularmente dolor neuropático o mal respondedor a otros opioides" [cite: 2680]
       ],
       [cite_start]"DosisGeneral": "Oral (Opioide Naive) - Niños 1-12 años: 50-100microgramos/kg/dosis, máx. 2.5mg, 2-3 veces/día[cite: 2730]. [cite_start]Conversión: Requiere protocolos específicos y **colaboración con especialistas** debido al alto riesgo (ej. Ratio 15:1 para OME >800mg/día)[cite: 2681, 2700, 2716]. [cite_start]CSCI/CIVI: Dosis oral diaria total ÷ 2[cite: 2728].",
       "RutasComunes": [
@@ -821,7 +821,7 @@
     {
       "Farmaco": "Morfina",
       "UsosPrincipales": [
-        "Dolor moderado a severo",
+        "Dolor moderado a grave",
         [cite_start]"Disnea" [cite: 2860]
       ],
       [cite_start]"DosisGeneral": "Oral (Opioide Naive) - Niños 2-11 años: 200-300microgramos/kg/dosis (máx. 10mg/dosis) c/4 horas[cite: 2865]. [cite_start]CSCI/CIVI (Opioide Naive) - Niños 2-11 años: 480-600microgramos/kg/24horas (máx. 20mg/24h)[cite: 2865]. [cite_start]Dolor Irruptivo (PO/IV/SC): 1/10 a 1/6 de la dosis diaria total c/1-4 horas[cite: 2868]. [cite_start]CSCI/CIVI (Conversión): Dosis oral total/3[cite: 2868].",
@@ -967,7 +967,7 @@
     {
       "Farmaco": "Oxicodona",
       "UsosPrincipales": [
-        [cite_start]"Analgésico opioide alternativo para dolor severo (especialmente intolerancia a morfina)" [cite: 3093]
+        [cite_start]"Analgésico opioide alternativo para dolor grave (especialmente intolerancia a morfina)" [cite: 3093]
       ],
       [cite_start]"DosisGeneral": "Oral (Liberación Inmediata): Conversión desde Morfina Oral (Ratio 2:1)[cite: 3093]. [cite_start]CSCI/CIVI: Conversión desde Morfina Oral (Ratio 3:1); desde Morfina CSCI/CIVI (Ratio 1:1)[cite: 3100, 3101]. [cite_start]Opioide Naive Oral: Niños 1 mes-11 años: 100microgramos/kg (máx. 5mg/dosis) c/4-6 horas[cite: 3104].",
       "RutasComunes": [
