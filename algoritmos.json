@@ -42,7 +42,7 @@
         },
         {
           "Paso": "Manejo del Dolor",
-          "Descripcion": "Si el paciente no tiene analgesia previa, iniciar Fentanilo (carga 2 microgr/kg IV y perfusión a 3 microg/kg/h). Si ya tiene analgesia, aumentar la dosis del fármaco actual (Fentanilo o Morfina) cada 20-30 minutos hasta alcanzar una puntuación < 4 en la escala N-PASS."
+          "Descripcion": "Si el paciente no tiene analgesia previa, iniciar Fentanilo (carga 1-2 microgr/kg IV y perfusión a 1-3 microg/kg/h). Si ya tiene analgesia, aumentar la dosis del fármaco actual (Fentanilo o Morfina) cada 20-30 minutos hasta alcanzar una puntuación < 4 en la escala N-PASS."
         },
         {
           "Paso": "Manejo sin Sedoanalgesia Previa",
